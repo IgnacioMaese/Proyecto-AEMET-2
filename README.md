@@ -8,7 +8,8 @@ Ciudades de estudio:
 El rango de años de estudio: Desde 2005 hasta 2024
 
 - En primer lugar hemos bajado todos los datos de la api de la AEMET con este enlace:
-   https://opendata.aemet.es/opendata/api/valores/climatologicos/inventarioestaciones/todasestaciones"
+- 
+ https://opendata.aemet.es/opendata/api/valores/climatologicos/mensualesanuales/datos/anioini/{ano_ini}/aniofin/{ano_fin}/estacion/{estacion}
 
 
 - En segundo lugar hemos procedido a su limpieza.
