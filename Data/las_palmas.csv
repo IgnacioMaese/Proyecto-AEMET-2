@@ -1,4 +1,4 @@
-indicativo,fecha,Temperatura Maxima,Temperatura Minima,Cantidad dias de lluvia,w_racha,hr,p_mes
+indicativo,fecha,Temperatura Maxima,Temperatura Minima,Cantidad dias de lluvia,velocidad del viento,Humedad Relativa,Precipitaciones mensuales
 C649I,2005-01-01,22.6,12.0,6,2.0,56.0,15.0
 C649I,2005-02-01,22.8,11.3,16,22.0,62.0,102.9
 C649I,2005-03-01,27.8,12.1,5,21.0,66.0,16.7
