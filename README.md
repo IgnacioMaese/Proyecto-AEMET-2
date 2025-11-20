@@ -15,11 +15,12 @@ El rango de años de estudio: Desde 2005 hasta 2024
 
 - En tercer lugar hemos procedido al análisis de datos estudiando estas tres ciudades Españolas con tipología de clima muy diferenciada.
 
-		BURGOS:Tipo de Clima Mediterráneo Continentalizado: Mediante el estudio de sus datos comprobamos que los inviernos son fríos y cortos. La amplitud térmica es muy amplia y los veranos son relativamente cortos.
+BURGOS:Tipo de Clima Mediterráneo Continentalizado: Mediante el estudio de sus datos comprobamos que los inviernos son fríos y cortos. La amplitud térmica es muy amplia y los veranos son relativamente cortos.
 
-		BARCELONA:Tipo de Clima Mediterráneo. Mediante el estudio de sus datos comprobamos que los inviernos son suaves y cortos. Hay poca variación térmica Veranos calurosos y húmedos con lluvias irregulares.
+BARCELONA:Tipo de Clima Mediterráneo. Mediante el estudio de sus datos comprobamos que los inviernos son suaves y cortos. Hay poca variación térmica Veranos calurosos y húmedos con lluvias irregulares.
 
-		Las palmas de gran Canaria:Tipo de clima. Clima Subtropical Árido.
+Las Palmas de gran Canaria:Tipo de clima. Clima Subtropical Árido.
+
 Mediante el estudio de sus datos comprobamos que los inviernos tienen temperaturas mucho mas suaves que en los casos anteriores, La amplitud térmica es muy pequeña destacando la casi ausencia total de extremos, hay una humedad muy alta y una escasa precipitación.  
 
 En Tercer lugar.
@@ -55,4 +56,4 @@ En cuarto lugar:
 
 CONCLUSIONES:
 
-	Nuestra búsqueda en este estudio está basada en la de demostrar la tipología clásica de cada clima que es a la conclusión que hemos llegado después observar y analizar los gráficos anteriores. Como dato relevante decir que las temperaturas mínimas cada vez son mas altas y las temperaturas máximas siguen la misma tendencia al alza.
+Nuestra búsqueda en este estudio está basada en la de demostrar la tipología clásica de cada clima que es a la conclusión que hemos llegado después observar y analizar los gráficos anteriores. Como dato relevante decir que las temperaturas mínimas cada vez son mas altas y las temperaturas máximas siguen la misma tendencia al alza.
