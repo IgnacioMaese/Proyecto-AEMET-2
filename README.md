@@ -1,5 +1,7 @@
 		Proyecto análisis de datos Api AEMET 
 
+Para el correcto funcionamiento del código, es necesario, ejecutar por orden los archivos. Comenzando la descarga por las ciudades y finalizando en el analisis conjunto. 
+
 Ciudades de estudio: 
 			Burgos, estación: “0231E”
 			Barcelona, estación “0076”
@@ -46,11 +48,14 @@ GRÁFICOS:
 -Distribución mensual de temperaturas mínimas en cada una de las ciudades con rango 2004 a 2025
 		En este gráfico se observan las características típicas del clima de Burgos en el que los valores mínimos son muy bajos, por debajo de cero, y la amplitud térmica muy alta
 
-Grafico de violín de temperaturas mínimas en cada una de las ciudades con rango 2004 a 2025 
+-Grafico de violín de temperaturas mínimas en cada una de las ciudades con rango 2004 a 2025 
 		
 
-Gráfico de caja de temperaturas máximas en cada una de las ciudades con rango 2004 a 2025. 
+-Gráfico de caja de temperaturas máximas en cada una de las ciudades con rango 2004 a 2025. 
 		En este gráfico se observa muy claramente las diferencias de amplitud entre las ciudades de estudio.
+
+-Histograma de la humedad relativa por ciudades con rango 2004 a 2025.
+	Barcelona y Las Palmas reprensenta una distribución normal de un conjunto de datos en forma de campana de Gauss, mientras que Burgos presenta una asimetría conforme a la camapana.
 
 
 En cuarto lugar:
